@@ -17,7 +17,7 @@
  * }
  */
 
-function removeKFromList(/* l, k */) {
+function removeKFromList(/* b, a */) {
   throw new Error('Not implemented');
 }
 
